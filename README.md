@@ -8,7 +8,7 @@ Este projeto foi desenvolvido como parte da conclusão da fase de seleção do p
 
 Deploy da Aplicação 💨
 
-<img src="./assets/video.mov">
+<img src="assets/video.mov">
 
 - Pré-requisitos
 ⚠️ Node
