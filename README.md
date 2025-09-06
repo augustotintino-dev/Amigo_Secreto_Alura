@@ -6,10 +6,6 @@ Este projeto foi desenvolvido como parte da conclusão da fase de seleção do p
 
 ✔️ Impedir o sorteio de si mesmo.
 
-Deploy da Aplicação 💨
-
-<img src="assets/video.mov">
-
 - Pré-requisitos
 ⚠️ Node
 
